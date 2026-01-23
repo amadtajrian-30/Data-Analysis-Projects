@@ -7,4 +7,6 @@ Influenza surveillance data were obtained from CDC FluView virologic surveillanc
 
 Methods: For this project, flu cases are defined as laboratory-confirmed positive influenza specimens, calculated as the total of specimens testing positive for influenza A and influenza B in a given surveillance week. The time period was restricted to late 2025, defined as MMWR weeks 40-52. These weeks corresponded to early October through late December 2025. This time period reflects the typical onset and early peak of the U.S. influenza season. Influenza surveillance data were extracted using the epidatr R package and processed using dplyr. Visualizations were created with ggplot2, and the interface was built using Shiny.
 
+From the plot in this dashboard, weekly influenza cases confirmed by laboratory remained low through October, increased gradually in November, and rose sharply in December. This coincides with an increase in percent positive cases toward the end of the reporting period.
+
 Contributed by: Tajrian Amad
