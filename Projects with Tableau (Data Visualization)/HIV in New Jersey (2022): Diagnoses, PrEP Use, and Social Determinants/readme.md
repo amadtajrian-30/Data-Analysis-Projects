@@ -10,3 +10,5 @@ The dashboard includes a county-level choropleth map of HIV new diagnosis rates 
 Data Source: All data used in this project are publicly available and were obtained from AIDSVu. The 2022 county-level datasets were used to visualize indicators, including HIV new diagnoses, PrEP use, PrEP-to-Need ratio, and social determinants of health indicators. The AIDSVu datasets were originally provided as separate files by indicator. For the purpose of this project, a curated dataset was created by limiting all data to New Jersey and its counties and selecting relevant indicators from each separate dataset. 
 
 This project is intended to demonstrate data visualization skills using Tableau and to conduct a descriptive exploration of public health surveillance data relevant for informing public health planning. 
+
+Contributed by: Tajrian Amad
