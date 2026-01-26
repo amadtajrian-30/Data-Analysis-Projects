@@ -1,4 +1,4 @@
-Pennsylvania Influenza Surveillance Dashboard (October-December 2025)
+# Pennsylvania Influenza Surveillance Dashboard (October-December 2025)
 
 Overview: This simple dashboard visualizes weekly laboratory-confirmed influenza activity in Pennsylvania during late 2025. The dashboard was developed in R using Shiny and is based on publicly available influenza surveillance data reported to the CDC.
 This was a beginner project that aimed to use surveillance data to support clear interpretation of influenza trends through an accessible and user-friendly interface.
